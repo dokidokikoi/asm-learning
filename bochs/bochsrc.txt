@@ -25,4 +25,4 @@ debug: action=ignore
 #i440fxsupport: enabled=1
 #display_library: sdl, options="legacyF12"
 mouse: enabled=0, toggle=ctrl+alt
-display_library: sdl2
+#display_library: sdl
